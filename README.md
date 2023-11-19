@@ -1,5 +1,4 @@
-# Hi there  @[YingchangLiu](https://github.com/YingchangLiu)
-# 你好 @[刘英昌](https://github.com/YingchangLiu)
+## Hi there [@YingchangLiu](https://github.com/YingchangLiu)
 
 
 <!--
